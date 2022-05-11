@@ -1,0 +1,15 @@
+C:\Users\rman9\source\repos\DataScript\DataScript\bin\Debug\net6.0\DataScript.exe
+C:\Users\rman9\source\repos\DataScript\DataScript\bin\Debug\net6.0\DataScript.deps.json
+C:\Users\rman9\source\repos\DataScript\DataScript\bin\Debug\net6.0\DataScript.runtimeconfig.json
+C:\Users\rman9\source\repos\DataScript\DataScript\bin\Debug\net6.0\DataScript.dll
+C:\Users\rman9\source\repos\DataScript\DataScript\bin\Debug\net6.0\DataScript.pdb
+C:\Users\rman9\source\repos\DataScript\DataScript\obj\Debug\net6.0\DataScript.csproj.AssemblyReference.cache
+C:\Users\rman9\source\repos\DataScript\DataScript\obj\Debug\net6.0\DataScript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rman9\source\repos\DataScript\DataScript\obj\Debug\net6.0\DataScript.AssemblyInfoInputs.cache
+C:\Users\rman9\source\repos\DataScript\DataScript\obj\Debug\net6.0\DataScript.AssemblyInfo.cs
+C:\Users\rman9\source\repos\DataScript\DataScript\obj\Debug\net6.0\DataScript.csproj.CoreCompileInputs.cache
+C:\Users\rman9\source\repos\DataScript\DataScript\obj\Debug\net6.0\DataScript.dll
+C:\Users\rman9\source\repos\DataScript\DataScript\obj\Debug\net6.0\refint\DataScript.dll
+C:\Users\rman9\source\repos\DataScript\DataScript\obj\Debug\net6.0\DataScript.pdb
+C:\Users\rman9\source\repos\DataScript\DataScript\obj\Debug\net6.0\DataScript.genruntimeconfig.cache
+C:\Users\rman9\source\repos\DataScript\DataScript\obj\Debug\net6.0\ref\DataScript.dll
